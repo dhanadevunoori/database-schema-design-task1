@@ -76,7 +76,7 @@ A key made up of two or more columns that uniquely identify a record.
 - **ER Diagram** and types of relationships (`1:1`, `1:M`, `M:N`)  
 
 # DOCUMENT
-Data Source <a.hred ="https://github.com/pavan4557/database-schema-design-task1/blob/main/sql%20code.sql"
+Data Source <a.hred ="https://github.com/dhanadevunoori/database-schema-design-task1/blob/main/sql%20code.sql"
 
 # ER Diagram
 ![App Screenshot](https://github.com/pavan4557/database-schema-design-task1/blob/main/Screenshot%202025-09-22%20190711.png)
